@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/0046-permutations) |
 | [0135-candy](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/0135-candy) |
 | [2048-build-array-from-permutation](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/2048-build-array-from-permutation) |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

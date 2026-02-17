@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/0046-permutations) |
 | [0135-candy](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0162-find-peak-element) |
 | [2048-build-array-from-permutation](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mohreda2192000/LeetCode-Problrms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Simulation
@@ -39,4 +40,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/mo7amedreda2192/LeetCode-Problrms/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
